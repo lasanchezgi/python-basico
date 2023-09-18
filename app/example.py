@@ -1,0 +1,6 @@
+import main
+
+main.run()
+print(main.data)
+#print('example:', main.data)
+
