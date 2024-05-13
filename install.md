@@ -15,7 +15,8 @@ Para actualizar los requerimientos utiliza este comando: `pip freeze > requireme
 # GitHub 🐱
 
 * `git init`
-* `git add *`
+* `git add .`
 * `git commit -m "Primer commit"`
+* `git branch -M main`
 * `git remote add origin url_del_respositorio`
-* `git push -u origin master`
+* `git push -u origin main`
